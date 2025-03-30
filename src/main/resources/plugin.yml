@@ -1,0 +1,14 @@
+name: SimplePunishment
+version: '1.0-SNAPSHOT'
+main: org.holiday.simplePunishment.Main
+api-version: '1.21'
+commands:
+  ban:
+  tempban:
+  mute:
+  tempmute:
+  kick:
+  unban:
+  unmute:
+  ipban:
+  history:

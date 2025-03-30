@@ -1,0 +1,28 @@
+# General Plugin Configuration
+
+messages:
+  ban: "&cYou have been banned from the server. Reason: %reason%"
+  tempban: "&cYou are temporarily banned. Reason: %reason% - Expires in: %expiration%"
+  mute: "&eYou can't chat because you're muted. Reason: %reason%"
+  tempmute: "&eYou are temporarily muted. Reason: %reason% - Expires in: %expiration%"
+  unban: "&aYou have been unbanned."
+  unmute: "&aYou have been unmuted."
+  preLoginBan: "&cYou are banned. Reason: %reason%"
+  preLoginMute: "&eYou are muted."
+
+historyMenu:
+  title: "&6Punishment History"
+  size: 27
+  items:
+    ban:
+      material: "BARRIER"
+      name: "&cBan"
+    tempban:
+      material: "BARRIER"
+      name: "&cTempBan"
+    mute:
+      material: "PAPER"
+      name: "&eMute"
+    tempmute:
+      material: "PAPER"
+      name: "&eTempMute"
